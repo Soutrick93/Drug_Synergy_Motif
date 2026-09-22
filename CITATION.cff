@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the paper and the software."
+title: "The Marginal Value of Network Motifs in Anticancer Drug Synergy Prediction (pipeline)"
+authors:
+  - family-names: "Das"
+    given-names: "Soutrick"
+    affiliation: "School of Computer Science and Artificial Intelligence, SR University, Warangal, India"
+license: MIT
+repository-code: "https://github.com/Soutrick93/Drug_Synergy_Prediction"
+version: "1.0.0"
+date-released: "2026-09-22"
+keywords:
+  - drug synergy
+  - network pharmacology
+  - feed-forward loop
+  - grouped cross-validation
+  - NCI-ALMANAC
+preferred-citation:
+  type: article
+  title: "The Marginal Value of Network Motifs in Anticancer Drug Synergy Prediction"
+  authors:
+    - family-names: "Das"
+      given-names: "Soutrick"
+  journal: "Computational Biology and Chemistry"
+  year: 2026
